@@ -27,7 +27,7 @@ This application is designed to detect simple head gestures ("Yes" for nodding a
 To start the application, navigate to the directory containing the Python script (`your_script_name.py`) and run:
 
 ```bash
-python your_script_name.py
+python main.py
 ```
 ### Replace your_script_name.py with the actual name of the Python script if it's different.
 
