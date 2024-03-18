@@ -1,4 +1,3 @@
-# Head-Gesture-Recognition
 # Head Gesture Detection Application
 
 This application is designed to detect simple head gestures ("Yes" for nodding and "No" for shaking) using a webcam feed in real-time. It employs OpenCV for video capture and facial recognition, alongside basic motion detection algorithms to interpret head movements as responses to a displayed question.
